@@ -16,3 +16,4 @@
 *.swp
 .rvmrc
 config/app_config.yml
+public/system

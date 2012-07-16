@@ -36,3 +36,6 @@ gem 'capistrano'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'ruby-tmdb3'
+gem 'twitter-bootstrap-rails'

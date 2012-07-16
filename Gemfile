@@ -39,3 +39,4 @@ gem 'capistrano'
 
 gem 'ruby-tmdb3'
 gem 'twitter-bootstrap-rails'
+gem 'paperclip'
